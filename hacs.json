@@ -1,0 +1,6 @@
+{
+  "name": "Tuyaha",
+  "render_readme": true,
+  "domains": ["climate", "fan", "humidifier", "light", "lock", "switch"],
+  "homeassistant": "2021.5.0",
+}
